@@ -59,9 +59,13 @@ Wrap-up: As the interview nears its conclusion, the AI provides a warm wrap-up m
 💡 Benefits
 
 Efficiency: Save time for HR teams by automating the interview process.
+
 Consistency: Ensure every candidate has the same experience and is evaluated objectively.
+
 Scalability: Perfect for handling large-scale recruitment without increasing HR workload.
+
 Candidate Engagement: Provide candidates with a modern, engaging, and inclusive interview experience.
+
 Data-Driven Insights: Automatically save and analyze interview data for better decision-making.
 
 📂 File Structure
