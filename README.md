@@ -70,7 +70,7 @@ Data-Driven Insights: Automatically save and analyze interview data for better d
 
 📂 File Structure
 
-main.py: Main script that runs the interview process
+app.py: Main script that runs the interview process
 requirements.txt: List of Python dependencies
 interviews/: Directory to store saved interview records
 README.md: This file
