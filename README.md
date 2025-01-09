@@ -18,10 +18,15 @@ Time Management: Tracks interview duration and provides timely reminders for wra
 ⚙️ Technologies Used
 
 Python: Core programming language
+
 Ollama: AI model for conversational interactions
+
 SpeechRecognition: Speech-to-text conversion
+
 pyttsx3: Text-to-speech engine
+
 JSON: For storing interview records
+
 Datetime: For managing and tracking interview time
 
 🛠️ Installation
