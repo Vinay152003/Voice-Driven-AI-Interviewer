@@ -8,11 +8,17 @@ The Voice-Driven AI Interviewer aims to transform the recruitment process by pro
 🔧 Features
 
 Voice-Enabled Interviews: Uses speech recognition and AI to carry out dynamic, real-time interviews.
+
 AI-Powered Question Generation: Automatically generates open-ended and follow-up questions based on the candidate's responses.
+
 Natural Language Processing (NLP): Understands and generates natural, context-aware responses.
+
 Automated Documentation: Saves interview records in a structured format, including conversations and feedback.
+
 Scalable: Efficiently handles high-volume recruitment by automating the process.
+
 Inclusive Design: Adaptive to different candidate needs, ensuring accessibility and fairness.
+
 Time Management: Tracks interview duration and provides timely reminders for wrapping up.
 
 ⚙️ Technologies Used
