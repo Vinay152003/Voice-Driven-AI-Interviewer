@@ -36,6 +36,7 @@ cd voice-driven-ai-interviewer
 Install dependencies:
 
 pip install -r requirements.txt
+
 Download the required AI model (Mistral): Ensure Ollama is installed and running, then pull the necessary model:
 
 ollama pull mistral
@@ -87,8 +88,11 @@ We welcome contributions! If you have any ideas for improving the Voice-Driven A
 Fork the repository
 
 Create a new branch (git checkout -b feature-branch)
+
 Commit your changes (git commit -am 'Add feature')
+
 Push to the branch (git push origin feature-branch)
+
 Open a pull request
 
 📄 License
@@ -98,6 +102,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 🤖 Acknowledgments
 
 Ollama: For providing the conversational AI model.
+
 SpeechRecognition: For enabling voice-to-text functionality.
+
 pyttsx3: For converting text to speech.
+
 OpenAI: For the inspiration behind natural language processing in interview automation.
