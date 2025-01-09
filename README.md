@@ -2,9 +2,11 @@
 The Voice-Driven AI Interviewer solves inefficiencies in hiring by automating interviews, ensuring consistency, reducing bias, and enhancing scalability, accessibility, and candidate engagement while saving time and resources for HR teams
 
 🚀 Vision
+
 The Voice-Driven AI Interviewer aims to transform the recruitment process by providing a scalable, unbiased, and professional interview experience. It solves challenges such as interviewer fatigue, inconsistent candidate experiences, high-volume interview handling, and documentation inefficiencies. The project uses AI-driven conversations to mimic the warmth of human interviews, allowing for seamless and inclusive interactions.
 
 🔧 Features
+
 Voice-Enabled Interviews: Uses speech recognition and AI to carry out dynamic, real-time interviews.
 AI-Powered Question Generation: Automatically generates open-ended and follow-up questions based on the candidate's responses.
 Natural Language Processing (NLP): Understands and generates natural, context-aware responses.
@@ -12,21 +14,25 @@ Automated Documentation: Saves interview records in a structured format, includi
 Scalable: Efficiently handles high-volume recruitment by automating the process.
 Inclusive Design: Adaptive to different candidate needs, ensuring accessibility and fairness.
 Time Management: Tracks interview duration and provides timely reminders for wrapping up.
+
 ⚙️ Technologies Used
+
 Python: Core programming language
 Ollama: AI model for conversational interactions
 SpeechRecognition: Speech-to-text conversion
 pyttsx3: Text-to-speech engine
 JSON: For storing interview records
 Datetime: For managing and tracking interview time
+
 🛠️ Installation
+
 Follow these steps to set up the project locally:
 
 Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/voice-driven-ai-interviewer.git
+git clone [https://github.com/yourusername/voice-driven-ai-interviewer.gi](https://github.com/Vinay152003/Voice-Driven-AI-Interviewer)t
 cd voice-driven-ai-interviewer
 Install dependencies:
 
