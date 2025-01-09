@@ -30,55 +30,65 @@ Follow these steps to set up the project locally:
 
 Clone this repository:
 
-bash
-Copy code
-git clone [https://github.com/yourusername/voice-driven-ai-interviewer.gi](https://github.com/Vinay152003/Voice-Driven-AI-Interviewer)t
+git clone [https://github.com/yourusername/voice-driven-ai-interviewer](https://github.com/Vinay152003/Voice-Driven-AI-Interviewer)
 cd voice-driven-ai-interviewer
+
 Install dependencies:
 
-bash
-Copy code
 pip install -r requirements.txt
 Download the required AI model (Mistral): Ensure Ollama is installed and running, then pull the necessary model:
 
-bash
-Copy code
 ollama pull mistral
+
 Run the application:
 
-bash
-Copy code
-python main.py
+python app.py
+
 💬 How It Works
+
 Initial Setup: The AI interviewer introduces itself and asks the candidate for their name and the position they are applying for.
+
 Question Generation: Based on the candidate’s responses, the AI dynamically generates relevant follow-up questions.
+
 Voice Interaction: The system listens to the candidate's responses, processes them, and generates a natural response.
+
 Documenting the Interview: All conversations, questions, and feedback are saved in a structured JSON file for future reference.
+
 Wrap-up: As the interview nears its conclusion, the AI provides a warm wrap-up message, offers next steps, and allows time for final questions.
+
 💡 Benefits
+
 Efficiency: Save time for HR teams by automating the interview process.
 Consistency: Ensure every candidate has the same experience and is evaluated objectively.
 Scalability: Perfect for handling large-scale recruitment without increasing HR workload.
 Candidate Engagement: Provide candidates with a modern, engaging, and inclusive interview experience.
 Data-Driven Insights: Automatically save and analyze interview data for better decision-making.
+
 📂 File Structure
+
 main.py: Main script that runs the interview process
 requirements.txt: List of Python dependencies
 interviews/: Directory to store saved interview records
 README.md: This file
 interview_bot/: Contains the core logic of the interview bot, including speech recognition, AI interactions, and more
+
 📌 Contributing
+
 We welcome contributions! If you have any ideas for improving the Voice-Driven AI Interviewer, feel free to open an issue or submit a pull request.
 
 Fork the repository
+
 Create a new branch (git checkout -b feature-branch)
 Commit your changes (git commit -am 'Add feature')
 Push to the branch (git push origin feature-branch)
 Open a pull request
+
 📄 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 🤖 Acknowledgments
+
 Ollama: For providing the conversational AI model.
 SpeechRecognition: For enabling voice-to-text functionality.
 pyttsx3: For converting text to speech.
