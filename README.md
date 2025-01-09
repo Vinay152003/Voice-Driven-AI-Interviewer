@@ -71,9 +71,13 @@ Data-Driven Insights: Automatically save and analyze interview data for better d
 📂 File Structure
 
 app.py: Main script that runs the interview process
+
 requirements.txt: List of Python dependencies
+
 interviews/: Directory to store saved interview records
+
 README.md: This file
+
 interview_bot/: Contains the core logic of the interview bot, including speech recognition, AI interactions, and more
 
 📌 Contributing
